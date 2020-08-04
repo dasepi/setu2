@@ -1,0 +1,5 @@
+pymongo
+asyncio
+aiohttp
+aiofiles
+Pillow
